@@ -46,7 +46,7 @@ public class Main {
                 new Cat("Pup",1.25,9.18),
                 new Robot("JK-222",33.11,11)
         });
-        teams[2] = new Team("Kekovs", new PropertyForParticipant[]{
+        teams[2] = new Team("Kekovs ", new PropertyForParticipant[]{
                 new Human("Lolik",20.5,4.05),
                 new Human("Polik",14.75,5.35),
                 new Cat("Frank",3.25,8.18),
